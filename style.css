@@ -58,7 +58,7 @@ nav ul{
 
 nav a{
     text-decoration: none;
-    color: none;
+    color: var(--cor2);
 }
 
 nav li{
@@ -139,20 +139,20 @@ div.texto{
 }
 
 article h2{
-    font-size: 1.6em;
+    font-size: 1.2em;
     color: var(--cor2);
 }
 
 article p{
     text-indent: 3ch;
     font-weight: bold;
-    font-size: 1em;
+    font-size: 0.8em;
     color: var(--cor2);
 }
 
 article a{
     text-align: right;
-    font-size: 0.9em;
+    font-size: 0.6em;
     color: var(--cor2);
 }
 
